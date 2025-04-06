@@ -3,7 +3,7 @@ build:
   version: 1.0
 
 accounts:
-  message: welcome to eazy bank account related to PRODACTION apis
+  message: welcome to eazy bank account related to PROD apis
   contactDetails:
     name: Sanjar developer
     email: "{cipher}f2d022b3ea020ed8ceea6b64e4dbf620b0481b6199cdf9cfad55ec582dbeaa89f7bbc54dff935044803a5c044687cdf7"
