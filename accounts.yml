@@ -1,0 +1,12 @@
+
+build:
+  version: 3.0
+
+accounts:
+  message: welcome to eazy bank account related to local apis
+  contactDetails:
+    name: Sanjar developer
+    email: sanjar1990@gmail.com
+  onCallSupport:
+    - 908070176
+    - 908070175
