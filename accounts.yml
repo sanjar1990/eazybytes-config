@@ -3,7 +3,7 @@ build:
   version: 3.0
 
 accounts:
-  message: welcome to eazy bank account related to local apis
+  message: welcome to eazy bank account related to DOCKER locker apis
   contactDetails:
     name: Sanjar developer
     email: sanjar1990@gmail.com

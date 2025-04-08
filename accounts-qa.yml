@@ -3,7 +3,7 @@ build:
   version: 2.0
 
 accounts:
-  message: welcome to eazy bank account related to QA apis
+  message: welcome to eazy bank account related to DOCKER QA apis
   contactDetails:
     name: Sanjar developer
     email: sanjar1990@gmail.com
