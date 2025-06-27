@@ -3,7 +3,7 @@ build:
   version: 1.0
 
 accounts:
-  message: welcome to eazy bank account related to DOCKER WEBHOOK2 apis
+  message: welcome to eazy bank account related to DOCKER WEBHOOK3 apis
   contactDetails:
     name: Sanjar developer
     email: "{cipher}1626d15cd266c45413aae53e8273be2ea6a0265ac0b07640eb994dfce910d0770de20bae74c36134256532bb4d982af0"
